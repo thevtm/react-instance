@@ -1,0 +1,18 @@
+{
+  "name": "react-instance",
+  "version": "0.0.1",
+  "description": "Alternative implementation of React Hooks",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.38"
+  }
+}
