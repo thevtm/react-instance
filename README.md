@@ -20,3 +20,4 @@ const Counter = (instance) => {
   };
 };
 ```
+[Example (CodePen)](https://codepen.io/TheVTM/pen/OJBWKRb)
